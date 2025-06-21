@@ -18,7 +18,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   &nbsp;
@@ -35,8 +35,6 @@
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="ArgoCD" width="40" height="40"/>
   &nbsp;
   <img src="https://helm.sh/img/helm.svg" alt="Helm" width="40" height="40"/>
-  &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cloudflare_Logo.svg" alt="Cloudflare" width="80" height="28"/>
 </p>
 
 
