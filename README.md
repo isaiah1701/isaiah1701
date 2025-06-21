@@ -1,34 +1,24 @@
-# 👋 Hi, I'm Isaiah Michael
+# Isaiah Michael
 
-🎯 **DevOps Engineer | Automating Cloud Infrastructure**
+DevOps Engineer | Cloud Infrastructure | IaC | CI/CD
 
-🔧 Experienced with **Terraform, Docker, Kubernetes, and AWS**  
-🚀 Skilled in building end-to-end CI/CD pipelines and multi-cloud deployments  
-📊 Passionate about scalable, secure, and observable infrastructure  
-📍 London, UK | 🧠 Currently upskilling via CoderCo
+London-based engineer focused on automating infrastructure across AWS, Azure, and Kubernetes. I build secure, production-ready pipelines and scalable environments using Terraform, Docker, and GitHub Actions.
 
 ---
 
-### 🔥 Projects
-- 🛡️ [Threat Modelling on ECS](https://github.com/isaiah1701/ECSThreatModellingProject) – End-to-end secured deployment using AWS ECS, Terraform, and CI/CD  
-- ☸️ [Kubernetes EKS Deployment](https://github.com/isaiah1701/k8-eks) – Fully GitOps-managed EKS app with Prometheus and ArgoCD  
-- 🟦 [Azure Container App](https://github.com/isaiah1701/AzureContainerApp) – Multi-stage CI/CD + Terraform + ACR deployment
+### 🚀 Projects
+- **[ECS Threat Modelling](https://github.com/isaiah1701/ECSThreatModellingProject)** – Terraform-built ECS service with secure CI/CD, threat modelled with realistic IAM constraints.
+- **[EKS Cluster Deployment](https://github.com/isaiah1701/k8-eks)** – Production-grade EKS setup with GitOps via ArgoCD, monitoring via Prometheus + Grafana.
+- **[Azure Container App](https://github.com/isaiah1701/AzureContainerApp)** – CI/CD-deployed app containerized with Docker and provisioned with Terraform on Azure.
 
 ---
 
-### 🧰 Tech Stack
-![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-blue?style=flat&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
+### 🧰 Stack
+AWS · Azure · Terraform · Docker · Kubernetes  
+GitHub Actions · ArgoCD · Linux · Helm · Cloudflare
 
 ---
 
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK-HERE)
-
-> ⚡ “From SDET to Cloud DevOps — I document everything I build.”
-
+### 📬 Contact
+[LinkedIn](https://www.linkedin.com/in/isaiahmichael)  
+isaiah.michael.dev@proton.me
