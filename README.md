@@ -42,4 +42,4 @@
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK-HERE)  
-📧 isaiah.michael.dev@proton.me
+📧 imichael1403@gmail.com
