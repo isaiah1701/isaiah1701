@@ -18,7 +18,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="30"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   &nbsp;
@@ -36,7 +36,6 @@
   &nbsp;
   <img src="https://helm.sh/img/helm.svg" alt="Helm" width="40" height="40"/>
 </p>
-
 
 
 
