@@ -9,9 +9,11 @@
 
 ### 🚀 Projects
 
-- 🔐 [**ECS Threat Modelling**](https://github.com/isaiah1701/ECSThreatModellingProject) – ECS service with IAM restrictions, Terraform IaC, and secure CI/CD
-- ☸️ [**EKS Cluster Deployment**](https://github.com/isaiah1701/k8-eks) – GitOps-managed EKS cluster with ArgoCD and full observability stack
-- 🟦 [**Azure Container App**](https://github.com/isaiah1701/AzureContainerApp) – Dockerized deployment to Azure using Terraform and ACR pipelines
+- ☸️ [**EKS Cluster Deployment**](https://github.com/isaiah1701/k8-eks) – Production-grade EKS cluster with GitOps via ArgoCD, Prometheus/Grafana observability, and external-dns & cert-manager automation
+- 🔐 [**ECS Threat Modelling**](https://github.com/isaiah1701/ECSThreatModellingProject) – Secure ECS service deployment using Terraform, IAM least privilege, and hardened CI/CD pipeline
+- 🟦 [**AKS Platform Deployment**](https://github.com/isaiah1701/AKSProject) – Full-stack AKS deployment with ArgoCD GitOps, HTTPS ingress, monitoring stack, and Helm-managed image classification app
+- 🐳 [**Azure Container App**](https://github.com/isaiah1701/AzureContainerApp) – Lightweight containerized app deployed via Azure Container Apps using Terraform, Docker, and secure ACR CI/CD pipeline
+
 
 ---
 
