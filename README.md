@@ -9,6 +9,7 @@
 
 ### 🚀 Projects
 
+- 🌍 [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) – Production-ready URL shortener service with Terraform-managed multi-env setup, blue/green deployments, WAF protection, and GitHub OIDC CI/CD (coming soon)
 - ☸️ [**EKS Cluster with full GitOps and Observability**](https://github.com/isaiah1701/k8-eks) – Production-grade EKS cluster with GitOps via ArgoCD, Prometheus/Grafana observability, and external-dns & cert-manager automation
 - 🔐 [**ECS Threat Modelling**](https://github.com/isaiah1701/ECSThreatModellingProject) – Secure ECS service deployment using Terraform, IAM least privilege, and hardened CI/CD pipeline
 - 🟦 [**AI Image Classifier powered by AKS**](https://github.com/isaiah1701/AKSProject) – Full-stack AKS deployment with ArgoCD GitOps, HTTPS ingress, monitoring stack, and Helm-managed image classification app
