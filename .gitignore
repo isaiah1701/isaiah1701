@@ -1,0 +1,29 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Dependency and build artifacts
+node_modules/
+dist/
+build/
+bin/
+obj/
+coverage/
+.pytest_cache/
+.cache/
