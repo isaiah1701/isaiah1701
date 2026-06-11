@@ -1,8 +1,8 @@
 <h1 align="center">Isaiah Michael</h1>
 <p align="center">
   <b>DevOps Engineer | Platform Engineering | Cloud Infrastructure | IaC | CI/CD</b><br>
-  London-based engineer building cloud platforms across AWS, Azure, and Kubernetes.<br>
-  I treat developers as the customer: reliable delivery paths, observable services, and clear production ownership.
+  London-based engineer building production-grade cloud platforms across AWS, Azure, and Kubernetes.<br>
+  I focus on safer releases, stronger observability, and developer-first workflows that make services easier to own and operate.
 </p>
 
 ---
@@ -11,7 +11,6 @@
 
 - [**Fintech Observability Platform**](https://github.com/isaiah1701/Observability-fintech-platform) - Improves developer ownership and incident response by connecting service catalog data, GitOps deployment state, and telemetry across EKS, Backstage, Datadog, and OpenTelemetry.
 - [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) - Reduces release risk by making environment promotion repeatable, protected, and rollback-ready through Terraform, blue/green deployments, WAF controls, and OIDC-based CI/CD.
-- [**EKS Cluster with Full GitOps and Observability**](https://github.com/isaiah1701/k8-eks) - Establishes a production Kubernetes baseline that removes manual deployment drift, automates DNS/TLS operations, and gives teams observable GitOps-controlled delivery.
 - [**AI Image Classifier Powered by AKS**](https://github.com/isaiah1701/AKSProject) - Turns a user-facing ML workload into an operable platform service with secure ingress, repeatable Helm releases, GitOps control, and monitoring.
 - [**API Health Checker via Azure Container Apps**](https://github.com/isaiah1701/AzureContainerApp) - Provides a lightweight reliability signal for APIs with repeatable Azure infrastructure, containerized delivery, and secure image promotion through ACR-backed CI/CD.
 
