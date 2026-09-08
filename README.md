@@ -62,14 +62,16 @@
   <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" alt="Anthropic Claude" title="Anthropic Claude" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangGraph" title="LangGraph" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Search-FFDE59" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/Langfuse-LLM%20Observability-8B5CF6" alt="Langfuse"/>
-  <img src="https://img.shields.io/badge/RAGAS-Evaluation-0F766E" alt="RAGAS"/>
-  <img src="https://img.shields.io/badge/Argo%20Rollouts-Blue--Green-EF7B4D" alt="Argo Rollouts"/>
-  <img src="https://img.shields.io/badge/Trivy-Security%20Scanning-1904DA" alt="Trivy"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:chroma.svg" alt="ChromaDB" title="ChromaDB" height="40"/>
+  &nbsp;
+  <img src="https://api.iconify.design/thesvg-color:langfuse.svg" alt="Langfuse" title="Langfuse" width="40" height="40"/>
+  &nbsp;
+  <img src="https://api.iconify.design/thesvg-color:ragas.svg" alt="RAGAS" title="RAGAS" width="40" height="40"/>
+  &nbsp;
+  <img src="https://api.iconify.design/logos:argo-icon.svg" alt="Argo Rollouts" title="Argo Rollouts" height="40"/>
+  &nbsp;
+  <img src="https://api.iconify.design/simple-icons:trivy.svg?color=%231904DA" alt="Trivy" title="Trivy" width="40" height="40"/>
 </p>
 
 ---
