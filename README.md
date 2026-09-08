@@ -9,7 +9,7 @@
 
 ### Projects
 
-- [**KubeMind — Multi-Agent Kubernetes AI System**](https://github.com/isaiah1701/multi-agent-system) - Delivers source-grounded Kubernetes guidance through LangGraph agents, hybrid retrieval, streamed Claude responses, safety guardrails, evaluation gates, Langfuse tracing, and blue-green releases on Amazon EKS.
+- [**Multi-Agent Kubernetes AI System**](https://github.com/isaiah1701/multi-agent-system) - Delivers source-grounded Kubernetes guidance through LangGraph agents, hybrid retrieval, streamed Claude responses, safety guardrails, evaluation gates, Langfuse tracing, and blue-green releases on Amazon EKS.
 - [**Fintech Observability Platform**](https://github.com/isaiah1701/Observability-fintech-platform) - Improves developer ownership and incident response by connecting service catalog data, GitOps deployment state, and telemetry across EKS, Backstage, Datadog, and OpenTelemetry.
 - [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) - Reduces release risk by making environment promotion repeatable, protected, and rollback-ready through Terraform, blue/green deployments, WAF controls, and OIDC-based CI/CD.
 - [**AI Image Classifier Powered by AKS**](https://github.com/isaiah1701/AKSProject) - Turns a user-facing ML workload into an operable platform service with secure ingress, repeatable Helm releases, GitOps control, and monitoring.
