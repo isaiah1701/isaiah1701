@@ -9,10 +9,10 @@
 
 ### Projects
 
+- [**KubeMind — Multi-Agent Kubernetes AI System**](https://github.com/isaiah1701/multi-agent-system) - Delivers source-grounded Kubernetes guidance through LangGraph agents, hybrid retrieval, streamed Claude responses, safety guardrails, evaluation gates, Langfuse tracing, and blue-green releases on Amazon EKS.
 - [**Fintech Observability Platform**](https://github.com/isaiah1701/Observability-fintech-platform) - Improves developer ownership and incident response by connecting service catalog data, GitOps deployment state, and telemetry across EKS, Backstage, Datadog, and OpenTelemetry.
 - [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) - Reduces release risk by making environment promotion repeatable, protected, and rollback-ready through Terraform, blue/green deployments, WAF controls, and OIDC-based CI/CD.
 - [**AI Image Classifier Powered by AKS**](https://github.com/isaiah1701/AKSProject) - Turns a user-facing ML workload into an operable platform service with secure ingress, repeatable Helm releases, GitOps control, and monitoring.
-- [**API Health Checker via Azure Container Apps**](https://github.com/isaiah1701/AzureContainerApp) - Provides a lightweight reliability signal for APIs with repeatable Azure infrastructure, containerized delivery, and secure image promotion through ACR-backed CI/CD.
 
 ---
 
@@ -54,6 +54,22 @@
   <img src="https://cdn.simpleicons.org/nginx/009639" alt="NGINX" width="40" height="40"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" alt="Traefik" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" alt="Anthropic Claude" title="Anthropic Claude" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="LangGraph" title="LangGraph" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Search-FFDE59" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Langfuse-LLM%20Observability-8B5CF6" alt="Langfuse"/>
+  <img src="https://img.shields.io/badge/RAGAS-Evaluation-0F766E" alt="RAGAS"/>
+  <img src="https://img.shields.io/badge/Argo%20Rollouts-Blue--Green-EF7B4D" alt="Argo Rollouts"/>
+  <img src="https://img.shields.io/badge/Trivy-Security%20Scanning-1904DA" alt="Trivy"/>
 </p>
 
 ---
