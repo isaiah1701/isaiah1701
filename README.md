@@ -75,9 +75,34 @@
   <img src="https://api.iconify.design/simple-icons:trivy.svg?color=%231904DA" alt="Trivy" title="Trivy" width="40" height="40"/>
 </p>
 
-<p>
-  <strong>MLOps &amp; Platform</strong><br>
-  <sub>Apache Airflow · MLflow · Feast · Redis · PostgreSQL · CatBoost · scikit-learn · Pandas · Evidently · k6 · Amazon S3 · Amazon ECR · cert-manager · ExternalDNS</sub>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" alt="Apache Airflow" title="Apache Airflow" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" title="MLflow" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/feast.svg" alt="Feast" title="Feast" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" title="Redis" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/catboost.svg" alt="CatBoost" title="CatBoost" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" title="scikit-learn" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" title="Pandas" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/evidently.svg" alt="Evidently" title="Evidently" width="40" height="40"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/k6/7D64FF" alt="k6" title="k6" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/s3.svg" alt="Amazon S3" title="Amazon S3" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/ecr.svg" alt="Amazon ECR" title="Amazon ECR" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/cert-manager.svg" alt="cert-manager" title="cert-manager" width="40" height="40"/>
+  &nbsp;
+  <img src="assets/icons/externaldns.svg" alt="ExternalDNS" title="ExternalDNS" width="40" height="40"/>
 </p>
 
 ---
