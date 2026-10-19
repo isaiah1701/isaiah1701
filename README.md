@@ -1,8 +1,8 @@
 <h1 align="center">Isaiah Michael</h1>
 <p align="center">
-  <b>DevOps Engineer | Platform Engineering | Cloud Infrastructure | IaC | CI/CD</b><br>
-  London-based engineer building production-grade cloud platforms across AWS, Azure, and Kubernetes.<br>
-  I focus on safer releases, stronger observability, and developer-first workflows that make services easier to own and operate.
+  <b>Platform &amp; MLOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD</b><br>
+  London-based engineer building reliable cloud platforms and machine-learning services on AWS, Azure, and Kubernetes.<br>
+  I focus on safe deployments, clear monitoring, and simple tools that help teams build, release, and run services with confidence.
 </p>
 
 ---
