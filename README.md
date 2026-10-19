@@ -75,6 +75,36 @@
   <img src="https://api.iconify.design/simple-icons:trivy.svg?color=%231904DA" alt="Trivy" title="Trivy" width="40" height="40"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" alt="MLflow"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Feast-6B4FBB?style=flat&logoColor=white" alt="Feast"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logoColor=black" alt="CatBoost"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Evidently-5B4BDB?style=flat&logoColor=white" alt="Evidently"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" alt="k6"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat&logo=amazonaws&logoColor=black" alt="Amazon ECR"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/cert--manager-1E88E5?style=flat&logoColor=white" alt="cert-manager"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ExternalDNS-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="ExternalDNS"/>
+</p>
+
 ---
 
 ### Contact
