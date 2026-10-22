@@ -7,13 +7,22 @@
 
 ---
 
-### Projects
+### Selected Projects
 
-- [**Multi-Agent Kubernetes AI System**](https://github.com/isaiah1701/multi-agent-system) - Delivers source-grounded Kubernetes guidance through LangGraph agents, hybrid retrieval, streamed Claude responses, safety guardrails, evaluation gates, Langfuse tracing, and blue-green releases on Amazon EKS.
-- [**Pricing MLOps Platform**](https://github.com/isaiah1701/pricing-ml-platform) - Operates an end-to-end NYC Airbnb price prediction service with feature management, experiment tracking, model promotion and rollback, production serving, monitoring, and automated retraining.
-- [**Fintech Observability Platform**](https://github.com/isaiah1701/Observability-fintech-platform) - Improves developer ownership and incident response by connecting service catalog data, GitOps deployment state, and telemetry across EKS, Backstage, Datadog, and OpenTelemetry.
-- [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) - Reduces release risk by making environment promotion repeatable, protected, and rollback-ready through Terraform, blue/green deployments, WAF controls, and OIDC-based CI/CD.
-- [**AI Image Classifier Powered by AKS**](https://github.com/isaiah1701/AKSProject) - Turns a user-facing ML workload into an operable platform service with secure ingress, repeatable Helm releases, GitOps control, and monitoring.
+- [**Multi-Agent Kubernetes AI System**](https://github.com/isaiah1701/multi-agent-system) — Helps engineering teams resolve Kubernetes questions faster with governed, source-grounded guidance. Built with multi-agent orchestration, hybrid retrieval, evaluation gates, tracing, and blue/green delivery on Amazon EKS.<br>
+  `LangGraph` · `Amazon EKS` · `RAG` · `Langfuse`
+
+- [**Pricing MLOps Platform**](https://github.com/isaiah1701/pricing-ml-platform) — Turns a pricing model into a reliable business service, with controlled model releases, rollback capability, production monitoring, and automated retraining.<br>
+  `Python` · `MLflow` · `Feast` · `Kubernetes`
+
+- [**Fintech Observability Platform**](https://github.com/isaiah1701/Observability-fintech-platform) — Gives product and engineering teams clearer service ownership and quicker incident diagnosis by bringing catalogue data, deployment context, and telemetry into one operating view.<br>
+  `Backstage` · `Datadog` · `OpenTelemetry` · `GitOps`
+
+- [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) — Establishes a safer release process for a cloud application through protected environment promotion, repeatable infrastructure, and rapid rollback options.<br>
+  `AWS ECS` · `Terraform` · `GitHub Actions` · `AWS WAF`
+
+- [**AI Image Classifier Powered by AKS**](https://github.com/isaiah1701/AKSProject) — Packages an ML workload as a secure, maintainable platform service with standardised deployments, GitOps controls, and operational monitoring.<br>
+  `Azure AKS` · `Helm` · `Argo CD` · `Monitoring`
 
 ---
 
