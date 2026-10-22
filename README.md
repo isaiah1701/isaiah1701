@@ -7,22 +7,37 @@
 
 ---
 
-### Selected Projects
+### Projects
 
-- [**Multi-Agent Kubernetes AI System**](https://github.com/isaiah1701/multi-agent-system) — Helps engineering teams resolve Kubernetes questions faster with governed, source-grounded guidance. Built with multi-agent orchestration, hybrid retrieval, evaluation gates, tracing, and blue/green delivery on Amazon EKS.<br>
-  `LangGraph` · `Amazon EKS` · `RAG` · `Langfuse`
+#### [Kubernetes Multi-Agent AI System](https://github.com/isaiah1701/multi-agent-system)
 
-- [**Pricing MLOps Platform**](https://github.com/isaiah1701/pricing-ml-platform) — Turns a pricing model into a reliable business service, with controlled model releases, rollback capability, production monitoring, and automated retraining.<br>
-  `Python` · `MLflow` · `Feast` · `Kubernetes`
+A secure assistant for platform teams that answers Kubernetes questions from approved sources and returns citations with each response. It includes safety checks, quality evaluation, request tracing, and blue/green releases on EKS.
 
-- [**Fintech Observability Platform**](https://github.com/isaiah1701/Observability-fintech-platform) — Gives product and engineering teams clearer service ownership and quicker incident diagnosis by bringing catalogue data, deployment context, and telemetry into one operating view.<br>
-  `Backstage` · `Datadog` · `OpenTelemetry` · `GitOps`
+`LangGraph` · `Amazon EKS` · `RAG` · `Langfuse`
 
-- [**Multi-Environment URL Shortener on ECS Fargate**](https://github.com/isaiah1701/url-shortener-on-ecs-fargate) — Establishes a safer release process for a cloud application through protected environment promotion, repeatable infrastructure, and rapid rollback options.<br>
-  `AWS ECS` · `Terraform` · `GitHub Actions` · `AWS WAF`
+#### [Pricing MLOps Platform](https://github.com/isaiah1701/pricing-ml-platform)
 
-- [**AI Image Classifier Powered by AKS**](https://github.com/isaiah1701/AKSProject) — Packages an ML workload as a secure, maintainable platform service with standardised deployments, GitOps controls, and operational monitoring.<br>
-  `Azure AKS` · `Helm` · `Argo CD` · `Monitoring`
+A repeatable route from price-prediction experiments to a monitored production service. Feature management, model versioning, approval, rollback, and retraining are built into the delivery process.
+
+`Python` · `MLflow` · `Feast` · `Kubernetes`
+
+#### [Fintech Observability Platform](https://github.com/isaiah1701/Observability-fintech-platform)
+
+A single operational view of service ownership, deployment status, and runtime health. It gives teams the context they need to investigate incidents and manage services with less handover and guesswork.
+
+`Backstage` · `Datadog` · `OpenTelemetry` · `GitOps`
+
+#### [Multi-Environment URL Shortener](https://github.com/isaiah1701/url-shortener-on-ecs-fargate)
+
+A delivery setup for a cloud application across multiple environments. Infrastructure, deployment approvals, security controls, and rollback are automated so releases are consistent and auditable.
+
+`AWS ECS` · `Terraform` · `GitHub Actions` · `AWS WAF`
+
+#### [Image Classification Platform on AKS](https://github.com/isaiah1701/AKSProject)
+
+A production-style platform for an image-classification API. It provides repeatable infrastructure, secure ingress, GitOps delivery, and the dashboards and health checks needed to run the service day to day.
+
+`Azure AKS` · `Helm` · `Argo CD` · `Prometheus` · `Grafana`
 
 ---
 
